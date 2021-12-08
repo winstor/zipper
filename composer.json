@@ -2,7 +2,7 @@
     "name": "winstor/zipper",
     "type": "library",
     "description": "zipper incompatible modify",
-    "license": "Apache2",
+    "license": "MIT",
     "require": {
         "php": ">=5.6.0",
         "ext-zip": "*"
